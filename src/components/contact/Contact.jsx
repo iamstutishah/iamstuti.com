@@ -46,6 +46,7 @@ const Contact = () => {
                 <a
                   href="https://www.linkedin.com/in/iamstuti/"
                   className="contact__button"
+                  target="_blank"
                 >
                   iamstuti
                   <i className="bx bx-right-arrow-alt contact__button-icon"></i>
@@ -61,6 +62,7 @@ const Contact = () => {
                 <a
                   href="https://github.com/iamstutishah"
                   className="contact__button"
+                  target="_blank"
                 >
                   iamstutishah
                   <i className="bx bx-right-arrow-alt contact__button-icon"></i>
