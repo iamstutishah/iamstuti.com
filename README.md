@@ -8,4 +8,4 @@ I created this website as a way to showcase my current and finished projects. It
 Some updates that I would like to do in the future include:
 - Add a preloader everytime the site is refreshed
 - Add a dark mode because the website is only light right now and I'm blinded
-- Redirection of each demo link
+
