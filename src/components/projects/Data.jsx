@@ -1,4 +1,5 @@
 import Annote from "../../assets/Annote.jpg";
+import LawSum from "../../assets/LawSum.jpg";
 
 export const projectsData = [
   {
@@ -8,6 +9,14 @@ export const projectsData = [
     category: "web app",
     link1: "https://annote.live",
     link2: "https://github.com/MiniHacks/annote",
+  },
+  {
+    id: 2,
+    image: LawSum,
+    title: "LawSum",
+    category: "web app",
+    link1: "https://devpost.com/software/temp-u5mn2p",
+    link2: "https://github.com/brandon-nguyen-lam/LawSum",
   },
 ];
 
