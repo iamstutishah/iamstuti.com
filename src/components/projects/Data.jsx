@@ -1,5 +1,6 @@
 import Annote from "../../assets/Annote.jpg";
 import LawSum from "../../assets/LawSum.jpg";
+import DataAly from "../../assets/aly2.JPG";
 
 export const projectsData = [
   {
@@ -17,6 +18,13 @@ export const projectsData = [
     category: "web app",
     link1: "https://devpost.com/software/temp-u5mn2p",
     link2: "https://github.com/brandon-nguyen-lam/LawSum",
+  },
+  {
+    id: 3,
+    image: DataAly,
+    title: "DataAly",
+    category: "web app",
+    link2: "https://github.com/MiniHacks/analyticsforgood",
   },
 ];
 
